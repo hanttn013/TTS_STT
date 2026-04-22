@@ -1,0 +1,16 @@
+# ===== Model Core =====
+vieneu
+faster-whisper
+ctranslate2
+
+# ===== Audio & processing =====
+numpy
+scipy
+sounddevice
+librosa
+
+# ===== UI =====
+streamlit
+
+# ===== Lưu ý =====
+# Cần cài đặt ffmpeg trên hệ điều hành để xử lý audio (nếu là .mp3, mp4 --> wav)
